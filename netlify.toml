@@ -11,4 +11,4 @@
   status = 200
 
 [[plugins]]
-    package = "./plugins/playwright-cache"
+    package = "netlify-plugin-playwright-cache"
