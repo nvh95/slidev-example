@@ -21,6 +21,7 @@ drawings:
   persist: false
 # use UnoCSS (experimental)
 css: unocss
+download: true
 ---
 
 # Welcome to Slidev
