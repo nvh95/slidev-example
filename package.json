@@ -12,7 +12,7 @@
     "@slidev/theme-seriph": "*"
   },
   "devDependencies": {
-    "netlify-plugin-playwright-cache": "0.0.1-alpha.0",
+    "netlify-plugin-playwright-cache": "0.0.1-alpha.1",
     "playwright-chromium": "^1.25.2"
   }
 }
